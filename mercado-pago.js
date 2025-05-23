@@ -1,3 +1,4 @@
 const mensagem = "hihiii"
 const d = "devedor"
-console.log(m)
+const p = 'pagameno'
+console.log(mensagem,p)
